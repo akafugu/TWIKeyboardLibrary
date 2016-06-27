@@ -21,7 +21,7 @@
 #else
 #  include <WProgram.h>
 #endif
-#include <../Wire/Wire.h>
+#include <Wire.h>
 
 #define BUTTON1 0
 #define BUTTON2 1
